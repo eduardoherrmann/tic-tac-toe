@@ -7,9 +7,12 @@ linhas,colunas = [0,1,2],[0,1,2]
 casas = [['-', '-', '-'], ['-', '-', '-'], ['-', '-', '-']]
 
 def valor(coluna,linha):
-    var 
-    if 
-    casas[coluna][linha] = "X"
+    var xo
+    if xo == 1
+        casas[coluna][linha] = "X"
+    if xo == -1
+        casas[oluna][linha] = "O"
+    xo = xo * -1
     botao()
 
 root = Tk()
